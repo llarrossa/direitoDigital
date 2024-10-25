@@ -45,5 +45,8 @@ O direito ao anonimato protege a identidade dos indivíduos, permitindo que eles
 # Resolução de conflito por autorregulamentação no direito
 A resolução de conflitos por autorregulamentação no direito digital refere-se ao processo em que setores da sociedade, especialmente empresas de tecnologia e plataformas digitais, estabelecem normas e diretrizes próprias para regular suas atividades e resolver disputas sem a intervenção direta do Estado. Esse mecanismo visa criar um ambiente mais flexível e dinâmico, onde as partes envolvidas podem solucionar conflitos de maneira eficiente, adaptando-se rapidamente às mudanças tecnológicas e aos desafios emergentes. No contexto digital, a autorregulamentação permite uma resposta mais ágil aos problemas relacionados à privacidade, segurança da informação e direitos dos usuários, promovendo a conformidade com padrões éticos e legais previamente acordados.
 
-# Mapa mental
+# Mapa mental 1
 ![Descrição da Imagem](markmap.svg)
+
+# Mapa mental 2
+![Descrição da Imagem](dd.svg)
