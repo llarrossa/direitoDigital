@@ -65,3 +65,20 @@ Riscos e Desafios: O outsourcing pode trazer riscos, como perda de controle sobr
 Regulamentação: É importante estar atento à regulamentação específica que pode impactar as atividades terceirizadas, especialmente em áreas sensíveis como saúde, finanças e proteção de dados.
 
 Tendências: O uso de tecnologias emergentes, como inteligência artificial e automação, está mudando o cenário do outsourcing, trazendo novas oportunidades e desafios para as empresas.
+
+# Direito do consumidor
+O direito do consumidor é um ramo do direito que visa proteger os interesses dos consumidores nas relações de consumo. Aqui estão os principais pontos:
+
+Princípios Fundamentais: Os direitos básicos do consumidor incluem a proteção à vida, saúde, segurança, educação para o consumo, e o direito à informação clara sobre produtos e serviços.
+
+Código de Defesa do Consumidor (CDC): No Brasil, o CDC é a principal legislação que regulamenta as relações de consumo. Ele estabelece normas que visam garantir a transparência, equidade e proteção ao consumidor.
+
+Publicidade e Práticas Comerciais: O CDC proíbe práticas enganosas e abusivas, assegurando que a publicidade seja verdadeira e não induza o consumidor a erro.
+
+Responsabilidade: As empresas são responsáveis pelos produtos e serviços que oferecem, devendo reparar danos causados por defeitos ou falhas na prestação do serviço.
+
+Direitos em Compras Online: O direito de arrependimento é garantido, permitindo que o consumidor cancele a compra em até 7 dias após o recebimento, sem penalidades.
+
+Acesso à Justiça: O consumidor tem direito a buscar reparação por meio de órgãos de defesa do consumidor e do Poder Judiciário, que deve ser acessível e desburocratizado.
+
+Atualizações e Desafios: Com o avanço das tecnologias e do comércio eletrônico, novas questões surgem, como a proteção de dados e práticas desleais online.
