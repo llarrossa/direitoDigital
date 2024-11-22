@@ -82,3 +82,21 @@ Direitos em Compras Online: O direito de arrependimento é garantido, permitindo
 Acesso à Justiça: O consumidor tem direito a buscar reparação por meio de órgãos de defesa do consumidor e do Poder Judiciário, que deve ser acessível e desburocratizado.
 
 Atualizações e Desafios: Com o avanço das tecnologias e do comércio eletrônico, novas questões surgem, como a proteção de dados e práticas desleais online.
+
+# O que é ISO 27000
+ 
+A ISO 27000 é um conjunto de certificações de segurança da informação e proteção de dados para empresas e órgãos públicos. Elas servem como base para a criação de um Sistema de Gestão de Segurança da Informação (SGSI) em organizações de pequeno, médio e grande porte.  
+
+O SGSI reúne políticas, procedimentos, diretrizes e recursos de proteção de informação de uma organização. O sistema deve estar alinhado aos objetivos de negócio e ser gerenciado de forma conjunta pela empresa.  
+
+As certificações da família ISO 27000 foram desenvolvidas em parceria entre a ISO e a International Electrotechnical Commission (IEC), outra organização internacional dedicada à padronização, porém voltada a tecnologias relacionadas à energia, multimídia, telecomunicações e eletroeletrônica.  
+
+A primeira versão foi publicada em 2005, como uma atualização do BS 7799, padrão britânico de segurança da informação. Hoje está em vigor a ISO/IEC 27000:2018. 
+
+Ela traz alguns princípios norteadores da segurança da informação. Os principais são:
+
+- Confidencialidade
+- Integridade
+- Disponibilidade
+- Autenticidade
+- O documento ainda traz termos e definições usados no processo de padronização de um SGSI. Ele serve como uma introdução para as outras normas do grupo.
